@@ -18,7 +18,7 @@ const routes = [
   {
     key: '/logout',
     name: "Cerrar Sesión",
-    route: "/logout",
+    route: "/",
     icon: <LogoutIcon />,
   },
 ];
