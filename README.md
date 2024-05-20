@@ -1,9 +1,9 @@
 
 # AppLogin
-Basic login in React with username, password and home page.
+Menú app
 ## Clone
 ```bash
-  git clone https://github.com/hanzbk/applogin.git
+  git clone https://github.com/hanzbk/appmenu.git
 ```
 ## Install
 ```bash
